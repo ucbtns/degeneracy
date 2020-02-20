@@ -1,4 +1,4 @@
-### Code for the work titled: 'Disambiguating degeneracy and redundancy using active inference'
+### Code for the work titled: 'Degeneracy and redundancy in active inference'
 
 Pre-requisite:
 - SPM12
